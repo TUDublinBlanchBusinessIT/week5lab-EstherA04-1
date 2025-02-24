@@ -23,6 +23,9 @@
               <li class="nav-item">
               <a class="nav-link" href={{ route('members.index')}}>Members List</a>
               </li>
+              <li class="nav-item">
+              <a class="nav-link" href={{ route('action.index')}}>Action</a>
+              </li>
             </ul>
           </div>
         </nav>
