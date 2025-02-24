@@ -24,7 +24,7 @@
               <a class="nav-link" href={{ route('members.index')}}>Members List</a>
               </li>
               <li class="nav-item">
-              <a class="nav-link" href={{ route('action.index')}}>Action</a>
+              <a class="nav-link" href={{ route('courts.create')}}>Court List</a>
               </li>
             </ul>
           </div>
